@@ -12,8 +12,8 @@ import com.spire.pdf.security.PdfPermissionsFlags;
 
 public class EncryptPDF {
 
-    public static String PATH = "/Users/orkravitz/Downloads/ProtectMyPDF/pdf/";
-    public static String FINAL = "/Users/orkravitz/Downloads/ProtectMyPDF/protected/";
+    public static String PATH = "/******/";
+    public static String FINAL = "/******/";
 
     public static void main(String[] args) {
 
@@ -77,7 +77,7 @@ public class EncryptPDF {
                         // Encrypt the PDF document
                         PdfEncryptionKeySize keySize = PdfEncryptionKeySize.Key_128_Bit;
                         String openPassword = "";
-                        String permissionPassword = "AzUyT67U4$xZ098Pl%1Mxq3";
+                        String permissionPassword = "/******/";
                         EnumSet flags = EnumSet.of(PdfPermissionsFlags.Print, PdfPermissionsFlags.Fill_Fields);
                         doc.getSecurity().encrypt(openPassword, permissionPassword, flags, keySize);
                     }
