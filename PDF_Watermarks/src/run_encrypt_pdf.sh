@@ -1,0 +1,1 @@
+java -cp /Users/orkravitz/dev/Pdf_Encrypt_Watermarks/PDF_Watermarks/lib/Spire.Pdf.jar /Users/orkravitz/dev/Pdf_Encrypt_Watermarks/PDF_Watermarks/src/EncryptPDF.java
