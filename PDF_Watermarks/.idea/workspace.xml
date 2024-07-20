@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a2b870-5452-495d-810f-f080ac580756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Pdf_Encrypt_Watermarks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/pdfbox_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Spire.Pdf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/google-cloud-translate-2.43.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pdfbox-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/.vscode/symbols.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/libraries/Spire_Pdf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/libraries/pdfbox_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/run_encrypt_pdf.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.vscode/symbols.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EncryptPDF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/run_encrypt_pdf.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pdf_Encrypt_Watermarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pdf_Encrypt_Watermarks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/EncryptPDF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pdf_Encrypt_Watermarks/EncryptPDF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EncryptPDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EncryptPDF.java" afterDir="false" />
     </list>
@@ -52,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EncryptPDF .executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/orkravitz/dev/Pdf_Encrypt_Watermarks/PDF_Watermarks",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.39310345"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EncryptPDF .executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/orkravitz/dev/Pdf_Encrypt_Watermarks/PDF_Watermarks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.39310345&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
